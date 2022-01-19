@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pointersbad
 - 👀 I’m interested in everything I see, but I assume I should say I am really into SWE on this platform.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... I am looking to collaborate!
+- 🌱 I’m currently learning ReactJS/Node.js/Angular (the world of frameworks awaits!)
+- 💞️ I’m looking to collaborate on... hmm... I am looking to collaborate!
 - 📫 How to reach me: saliht12345@gmail.com is the way to go!
 
 <!---
